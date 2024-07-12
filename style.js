@@ -2,7 +2,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const addForm = document.getElementById('AddForm')
     const editForm = document.getElementById('EditForm')
     const studetTable = document.querySelector('.student-table')
-
     let students = [];
     let editIndex = -1;
 
